@@ -1,56 +1,60 @@
 # annotations
 
+:x: = not done yet
+:on: = doing
+:heavy_check_mark: = done
+
 ## Studies
 
 #### Books
-- The Pragmatic Programmer
-- Clean Code & Clean Coder
-- Refactoring and TDD (Martin Fowler)
-- Discrete mathematics (Decide between books or courses)
-- Structure and Interpretation of Computer Programs
-- Types and Programming Languages
-- DDD & Clean Arch & Patterns of enterprise applications
-- The Mythical Man Month
+- :on: The Pragmatic Programmer
+- :x: Clean Code & Clean Coder
+- :x: Refactoring and TDD (Martin Fowler)
+- :x: Discrete mathematics (Decide between books or courses)
+- :x: Structure and Interpretation of Computer Programs
+- :x: Types and Programming Languages
+- :x: DDD & Clean Arch & Patterns of enterprise applications
+- :x: The Mythical Man Month
 
-#### Geral
-- Strengthen OOP knowledge
-- Threads
-- Exceptions
-- Data structures and algorithms
+#### General
+- :x: Strengthen OOP knowledge
+- :x: Threads
+- :x: Exceptions
+- :x: Data structures and algorithms
 
 #### Patterns
-- Clean Code
-- Clean Arch
-- SOLID
-- MVC
-- MVVM
-- MVP
-- BLOC
-- DDD
-- TDD
-- BDD
+- :x: Clean Code
+- :x: Clean Arch
+- :x: SOLID
+- :x: MVC
+- :on: MVVM
+- :x: MVP
+- :x: BLOC
+- :x: DDD
+- :x: TDD
+- :x: BDD
 
 #### Flutter
-- Reinforce knowledge in async/await, list and map
-- Unit tests
-- Integration tests
-- Themes
-- Flavors
+- :on: Reinforce knowledge in async/await, list and map
+- :x: Unit tests
+- :x: Integration tests
+- :x: Themes
+- :x: Flavors
 
 #### Kotlin/Android
-- Kotlin 
-- Retrofit
-- Material Components
-- Android Jetpack
-- Coroutines
-- Gradle
-- Unit tests
-- Integration tests
-- UI tests
-- Data Binding 
-- Jetpack Compose
+- :x: Kotlin 
+- :x: Retrofit
+- :x: Material Components
+- :x: Android Jetpack
+- :x: Coroutines
+- :x: Gradle
+- :x: Unit tests
+- :x: Integration tests
+- :x: UI tests
+- :x: Data Binding 
+- :x: Jetpack Compose
 
 #### Clojure/Golang
-- Basic levels of the chosen language
-- Basic architecture
-- REST API development
+- :x: Basic levels of the chosen language
+- :x: Basic architecture
+- :x: REST API development
