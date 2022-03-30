@@ -7,8 +7,8 @@
 ## Studies
 
 #### Books
-- :on: The Pragmatic Programmer
-- :x: Clean Code & Clean Coder
+- :x: The Pragmatic Programmer
+- :on: Clean Code & Clean Coder
 - :x: Refactoring and TDD (Martin Fowler)
 - :x: Discrete mathematics (Decide between books or courses)
 - :x: Structure and Interpretation of Computer Programs
@@ -17,13 +17,13 @@
 - :x: The Mythical Man Month
 
 #### General
-- :x: Strengthen OOP knowledge
+- :on: Strengthen OOP knowledge
 - :x: Threads
 - :x: Exceptions
 - :x: Data structures and algorithms
 
 #### Patterns
-- :x: Clean Code
+- :on: Clean Code
 - :x: Clean Arch
 - :x: SOLID
 - :x: MVC
@@ -42,7 +42,7 @@
 - :x: Flavors
 
 #### Kotlin/Android
-- :x: Kotlin 
+- :on: Kotlin 
 - :x: Retrofit
 - :x: Material Components
 - :x: Android Jetpack
@@ -52,7 +52,7 @@
 - :x: Integration tests
 - :x: UI tests
 - :x: Data Binding 
-- :x: Jetpack Compose
+- :on: Jetpack Compose
 
 #### Clojure/Golang
 - :x: Basic levels of the chosen language
